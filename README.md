@@ -56,3 +56,5 @@
 - 圆角设计，现代感强
 - 平滑动画过渡
 - 发送/接收消息气泡区分
+
+<p align="center"> <strong>如果你喜欢这个项目，欢迎给个 :star:！</strong> <br> <sub>Made with :heart: by VVChat Contributors</sub> </p>
