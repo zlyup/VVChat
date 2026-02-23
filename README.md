@@ -16,7 +16,7 @@
 ## :speech_balloon: 实时聊天
 - 基于 Supabase Realtime 的消息实时同步
 - 实时显示在线用户数量
-- 消息发送状态提示（发送中 ✓ / 成功 ✓ / 失败 ✗）
+- 消息发送状态提示（发送中 :heavy_check_mark: / 成功 :heavy_check_mark: / 失败 :x:）
 - 支持消息重发
 ## :fire: 阅后即焚
 - 所有消息发送后 1分钟自动销毁
