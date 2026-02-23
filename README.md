@@ -35,7 +35,7 @@
 
   - :page_facing_up: PDF、Word、Excel、PowerPoint
   - :memo: 文本文件、CSV、JSON
-  - :compression: ZIP、RAR、7z 压缩包
+  - :card_index_dividers: ZIP、RAR、7z 压缩包
 
 </details
   
